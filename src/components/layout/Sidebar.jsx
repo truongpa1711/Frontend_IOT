@@ -13,7 +13,7 @@ const Sidebar = () => {
           <li className="mb-2">
             <Link to="/" className={`flex items-center space-x-2 hover:bg-gray-700 p-2 rounded ${isActive('/')}`}>
               <FaHome />
-              <span>Home</span>
+              <span>Dashboard</span>
             </Link>
           </li>
           <li className="mb-2">
